@@ -31,6 +31,17 @@ nav {
 .books__loading .books__loading--spinner{
    display:block !important;
 }
+#filter{
+  background:transparent;
+  color:#7342d6;
+  border-color:#7342d6;
+  font-weight:bold;
+  font-size:17px;
+}
+.option{
+  font-weight:bold;
+  background:rgba(115, 66, 214, 0.1);
+}
 img {
   width: 100%;
 }
